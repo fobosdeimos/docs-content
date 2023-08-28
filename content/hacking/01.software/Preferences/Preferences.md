@@ -10,7 +10,8 @@ Some preferences can be controlled from the **Preferences** dialog within the Ar
 Other preferences must be changed in the preferences.txt file. This file's location is displayed in the preferences dialog. It should be:
 
 - \Arduino15\preferences.txt (Windows, Arduino IDE 1.6.6 and newer)
-- \Arduino15\preferences.txt (Windows, Arduino IDE 1.6.0 - 1.6.5)
+- \Arduino15\preferences.txt (Windows, Arduino IDE 1.6.0 - 1.6.5)![anonymous_cryptocurrency-5bfc324bc9e77c00519be687](https://github.com/arduino/docs-content/assets/18505361/7e73458d-450e-4a51-b660-0079e48b31b4)
+
 - \Arduino\preferences.txt (Windows, Arduino IDE 1.0.6 and older)
 - \Documents\ArduinoData\preferences.txt (Windows app version)
 - ~/Library/Arduino15/preferences.txt (Max OS X, Arduino IDE 1.6.0 and newer)
